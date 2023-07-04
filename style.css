@@ -1,5 +1,11 @@
-header  {background-color: #274131; 
+* {margin: 0; padding: 0;}
+
+header  {background-image: linear-gradient(#588C39, #273320,#58853C,#55813A  ); 
 color: rgb(250, 250, 252);}
 
 .cabecalho-imagem {width: 100%;}
 
+.site {background-image: linear-gradient(#588C39, #273320,#58853C,#55813A  ); width: 25%; display: grid;}
+
+
+.tabela {display: grid;}
